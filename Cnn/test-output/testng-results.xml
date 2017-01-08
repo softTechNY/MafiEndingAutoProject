@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Potbelly Client on Chrome Browser" duration-ms="21002" started-at="2017-01-08T19:21:14Z" finished-at="2017-01-08T19:21:36Z">
+    <groups>
+    </groups>
+    <test name="Cnn Home Page" duration-ms="21002" started-at="2017-01-08T19:21:14Z" finished-at="2017-01-08T19:21:36Z">
+      <class name="home.TestCnnHome">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:home.TestCnnHome@57829d67]" name="setUp" is-config="true" duration-ms="9244" started-at="2017-01-08T14:21:15Z" finished-at="2017-01-08T14:21:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rahmanww]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6f132866-de72-43fd-b49a-e6f81d26bfe3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Mac]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[50]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[http://www.cnn.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testHome()[pri:0, instance:home.TestCnnHome@57829d67]" name="testHome" duration-ms="11547" started-at="2017-01-08T14:21:24Z" finished-at="2017-01-08T14:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHome -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:home.TestCnnHome@57829d67]" name="tearDown" is-config="true" duration-ms="159" started-at="2017-01-08T14:21:35Z" finished-at="2017-01-08T14:21:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- home.TestCnnHome -->
+    </test> <!-- Cnn Home Page -->
+  </suite> <!-- Potbelly Client on Chrome Browser -->
+</testng-results>
